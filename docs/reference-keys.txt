@@ -8,9 +8,3 @@ pitch
 story
 materials
 methods
-literature
-methods-1
-applications
-example-one
-example-two
-final-words
