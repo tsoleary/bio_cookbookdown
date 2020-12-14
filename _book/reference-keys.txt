@@ -8,3 +8,13 @@ applications
 example-one
 example-two
 final-words
+introduction
+our-mission
+contact-us
+desserts
+chocolate-mousse
+description
+pitch
+story
+materials
+methods-1
