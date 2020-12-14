@@ -6,7 +6,7 @@ Thomas O'Leary
 
 ### Description
 
-Chocolate mouse is a "soft prepared food that incorporates air bubbles to give it a light and airy texture" according to (Wikipedia)[https://en.wikipedia.org/wiki/Mousse].
+Chocolate mouse is a "soft prepared food that incorporates air bubbles to give it a light and airy texture" according to [Wikipedia](https://en.wikipedia.org/wiki/Mousse).
 
 ### Pitch
 
@@ -22,9 +22,9 @@ My mom has never let me forget that I said this -- but she has been sure to make
 
 ### Materials
 
- - Box of (Chocolate Mousse Mix)[https://www.amazon.com/OETKER-Mousse-Chocolate-Milk-Ounces/dp/B00F4J7ZCI/ref=asc_df_B00F4J7ZCI/?tag=hyprod-20&linkCode=df0&hvadid=459693950627&hvpos=&hvnetw=g&hvrand=11603616910127190051&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9003006&hvtargid=pla-997270846247&psc=1]
+ - Box of [Chocolate Mousse Mix](https://www.amazon.com/OETKER-Mousse-Chocolate-Milk-Ounces/dp/B00F4J7ZCI/ref=asc_df_B00F4J7ZCI/?tag=hyprod-20&linkCode=df0&hvadid=459693950627&hvpos=&hvnetw=g&hvrand=11603616910127190051&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9003006&hvtargid=pla-997270846247&psc=1)
     - Likely found in your local grocery store's pudding isle
- - Mil
+ - Milk
  - Bowl
  - Electric mixer
 

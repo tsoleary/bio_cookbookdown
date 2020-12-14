@@ -29,14 +29,21 @@ You may submit new recipes on [this google form](https://docs.google.com/forms/d
 
 ## Contact us
 
-Please reach out to us, send all correspondance to the Biology Social Committee (uvmbiopartyplanning\@gmail.com)!
+Please reach out to us, send all correspondance to the Biology Social Committee (<a href="uvmbiopartyplanning@gmail.com">)!
 
-- Send us more of your favorite recipes. 
-  - Or add to your story
+- Send us more about your favorite recipe and add to your story
 - Send us pictures of meals you've prepared.
 - Send us reviews of recipes you've tried.
 - Send us any other comments, suggestions, or corrections 
 
 
-
+```{r, eval = FALSE, include = FALSE}
+# How to build the book when changes are made
+require(bookdown)
+render_book(input = ".", output_format = NULL,
+   clean = TRUE, envir = parent.frame(), 
+   output_dir = "docs",
+   new_session = NA, preview = TRUE,
+   config_file = "_bookdown.yml")
+```
 
