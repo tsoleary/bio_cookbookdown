@@ -3,7 +3,9 @@ title: "Biology Holiday Cookbook!"
 author: "University of Vermont\nBiology Department"
 date: "`r format(Sys.Date(), '%B %d, %Y')`"
 site: bookdown::bookdown_site
-output: bookdown::gitbook
+output:
+  bookdown::gitbook:
+    split_by: section
 output_dir: "docs"
 documentclass: book
 bibliography: [book.bib, packages.bib]
