@@ -47,3 +47,17 @@ render_book(input = ".", output_format = NULL,
    config_file = "_bookdown.yml")
 ```
 
+
+```{r, eval = FALSE, include = FALSE}
+# Template for the markdown....
+
+## Name
+
+### Pitch
+
+### Materials
+
+### Methods
+
+```
+
