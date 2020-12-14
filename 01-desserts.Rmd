@@ -2,6 +2,10 @@
 
 ## Chocolate Mousse
 
+![](_bookdown_files/mousse.jpg)
+
+### Author
+
 Thomas O'Leary
 
 ### Description

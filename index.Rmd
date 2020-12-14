@@ -15,7 +15,7 @@ description: "This cookbook is a compilation of The University of Vermont Biolog
 
 # Introduction
 
-![](_bookdown_files/uvmwinter.jpg)
+![©Sally McCay, UVM Photo](_bookdown_files/uvmwinter.jpg)
 
 ## Our mission
 
@@ -29,7 +29,7 @@ You may submit new recipes on [this google form](https://docs.google.com/forms/d
 
 ## Contact us
 
-Please reach out to us! Send all correspondance to the Party Planning Committee (<a href="uvmbiopartyplanning@gmail.com">)!
+Please reach out to us! Send all correspondance to the Party Planning (_uvmbiopartyplanning\@gmail.com_)!
 
 - Send us more about your favorite recipe and add to your story
 - Send us pictures of meals you've prepared.
@@ -41,9 +41,9 @@ Please reach out to us! Send all correspondance to the Party Planning Committee 
 # How to build the book when changes are made
 require(bookdown)
 render_book(input = ".", output_format = NULL,
-   clean = TRUE, envir = parent.frame(), 
-   output_dir = "docs",
-   new_session = NA, preview = TRUE,
+   clean = TRUE, envir = parent.frame(),
+   clean_envir = !interactive(), output_dir = "docs",
+   new_session = NA, preview = FALSE,
    config_file = "_bookdown.yml")
 ```
 

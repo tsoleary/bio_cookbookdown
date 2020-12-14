@@ -3,6 +3,7 @@ our-mission
 contact-us
 desserts
 chocolate-mousse
+author
 description
 pitch
 story
