@@ -6,10 +6,6 @@ site: bookdown::bookdown_site
 output:
   bookdown::gitbook:
     split_by: section
-    fontsettings:
-      theme: night
-      family: sans
-      size: 2
 output_dir: "docs"
 documentclass: book
 bibliography: [book.bib, packages.bib]
