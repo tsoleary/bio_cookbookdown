@@ -1,10 +1,13 @@
 # Desserts {#desserts}
 
-![](_bookdown_files/color_cups.JPG){width=45%} ![](_bookdown_files/mousse.jpg){width=45%}
+![](_bookdown_files/color_cups.jpg){width=45%} ![](_bookdown_files/mousse.jpg){width=45%}
+![](_bookdown_files/armaretti.jpg){width=45%} ![](_bookdown_files/muddy_buddy.jpg){width=45%}
+![](_bookdown_files/crinkle_cookies.jpg){width=45%} 
+
 
 We've got some delecious treats for you here:
 
-- **Hannah Boyd** tell you how she makes [Muddy Buddies] -- a special treat full of crunchy, chocolatey, peanut buttery goodness.
+- **Hannah Boyd** tells you how she makes [Muddy Buddies] -- a special treat full of crunchy, chocolatey, peanut buttery goodness.
 - **Rachel Plouffe** shares a Brazilian recipe for [Brigadeiros -- Brazilian Truffles], a classic dessert at kid's birthdays and a treat she has been making with her daughter to share with the neighbors in these isolating times.
 - **Leigh Sweet** has a pretty _sweet_ -- get it? -- recipe for a [Ginger Crinkle Cookie] that you don't want to miss.
 - **Thomas O'Leary** shares a "recipe" for the _guilt-free_ treat of [Chocolate Mousse], that is way easier than pie to make!
@@ -14,6 +17,8 @@ We've got some delecious treats for you here:
 ## Muddy Buddies
 
 Hannah Boyd
+
+![](_bookdown_files/muddy_buddy.jpg){width=45%}
 
 ### Pitch
 
@@ -32,8 +37,8 @@ If you love crunchy, chocolatey, peanut buttery goodness you will love this reci
 
 1. Into large bowl, measure cereal; set aside.
 2. In 1-quart microwavable bowl, microwave chocolate chips, peanut butter and butter uncovered on High 1 minute; stir. Microwave about 30 seconds longer or until mixture can be stirred smooth. Stir in vanilla.
-3. Pour mixture over cereal, stirring until evenly coated. Pour into 2-gallon resealable food-storage plastic bag or toss in a large mixing bowl
-4. Add powdered sugar. Seal bag; shake until well coated. Spread on waxed paper to cool. Store in airtight container 
+3. Pour mixture over cereal, stirring until evenly coated. Pour into 2-gallon resealable food-storage plastic bag or toss in a large mixing bowl.
+4. Add powdered sugar. Seal bag; shake until well coated. Spread on waxed paper to cool. Store in airtight container.
 
 
 ## Brigadeiros -- Brazilian Truffles
@@ -48,26 +53,27 @@ This is classic Brazilian recipe that you see in every kid's birthday party. Thi
 
 ### Materials
 
+makes about 20 servings
+
 - 1 tablespoon butter
 - 1 can sweetened condensed milk
 - ¼ cup cocoa powder
 - 1 ½ cups chocolate sprinkle, as needed
 
-- makes about 20 servings
-
-
 ### Methods
 
-1. In pot over low heat add sweetened condensed milk, butter and sifted cocoa powder (sifting helps prevent lumps of cocoa powder)
-2. Stir continuously (very important as mixture starts getting thicker) until you can tilt the pot and the mixture does not stick to it (or when you can see the bottom of the pot for about 3 seconds after dragging a spatula through)
+1. In pot over low heat add sweetened condensed milk, butter and sifted cocoa powder (sifting helps prevent lumps of cocoa powder).
+2. Stir continuously (very important as mixture starts getting thicker) until you can tilt the pot and the mixture does not stick to it (or when you can see the bottom of the pot for about 3 seconds after dragging a spatula through).
 3. Pour mixture onto a greased plate and let it cool.
-4. Divide the mixture into 4 and using butter to grease your hands, shape the mixture into balls (each quarter of the mixture should make about 5 balls)
-5. Roll the balls in chocolate sprinkles
+4. Divide the mixture into 4 and using butter to grease your hands, shape the mixture into balls (each quarter of the mixture should make about 5 balls).
+5. Roll the balls in chocolate sprinkles.
 6. Enjoy!
 
 ## Ginger Crinkle Cookie
 
 Leigh Sweet
+
+![](_bookdown_files/crinkle_cookies.jpg){width=45%}
 
 ### Pitch
 
@@ -93,7 +99,7 @@ This is one of my favorite Christmas cookies.
 4.	Roll a teaspoon into a small ball and coat with sugar.
 5.	Place on ungreased cookie sheet about 3 inches apart.
 6.	Cookies will flatten and crinkle as they cook.
-7.	Bake for 10 – 12 mins at 350 degrees.
+7.	Bake for 10 – 12 mins at 350ºF.
 8.	Cool on a cookie rack.
 
 ## Chocolate Mousse
@@ -124,22 +130,26 @@ My mom has never let me forget that I said that -- but she has been sure to make
 
 ### Methods
 
-1. Add contents of the box and one cup of milk to a bowl
-2. Beat with the electric mixer on low until thickened
-3. Whip at the highest spead for 3 to 5 minutes
-4. Spoon into serving dish
-5. Chill in the refrigerator for at least an hour
+1. Add contents of the box and one cup of milk to a bowl.
+2. Beat with the electric mixer on low until thickened.
+3. Whip at the highest spead for 3 to 5 minutes.
+4. Spoon into serving dish.
+5. Chill in the refrigerator for at least an hour.
 6. Eat!
 
 ## Nanny's Amaretti Cookies
 
 Lauren Ash
 
+![](_bookdown_files/armaretti.jpg){width=45%}
+
 ### Pitch
 
 This is the recipe my grandma (Nanny) uses every year to make amaretti cookies. Every Christmas Eve, we normally travel to Nanny's house to celebrate the Feast of the Seven Fishes, which is an Italian-American tradition. Amaretti are the family's favorites and are Italian, gluten free, sweet and delicate almond cookies. This year, I asked for the recipe and will attempt them myself since we are unable to travel. I've attached a picture of my brother, myself, and Nanny after we helped make her amaretti cookies in 2018.
 
 ### Materials
+
+makes about 5 dozen cookies
 
 - 8 oz almond paste 
 - 4 large egg whites
@@ -148,20 +158,19 @@ This is the recipe my grandma (Nanny) uses every year to make amaretti cookies. 
 - 2 tsp almond extract 
 - ¼ cup confectioners' sugar
 
-- makes about 5 dozen cookies
 
 ### Methods
 
-1. Preheat oven to 300 degrees and line baking sheets with parchment paper
-2. Open the can of almond paste by opening both ends and pushing the paste through to the other side or buy almond paste in a bakery (it’s much softer and easier to use)
-3. Break the almond paste into small pieces and place in the bowl of an electric mixer along with the sugar. Mix on low speed until the mixture is very fine
-4. Add 1 egg white and continue beating until smooth; fold in flavoring
-5. In a separate bowl, beat remaining egg whites until foamy; add salt and continue beating until stiff but not dry. (You know the whites are beaten thoroughly when you turn the bowl upside downand the whites adhere to the sides of the bowl and do not fall out)
-6. Fold the beaten egg whites into the almond paste mixture and then beat for about 3 minutes or until very light
+1. Preheat oven to 300ºF and line baking sheets with parchment paper.
+2. Open the can of almond paste by opening both ends and pushing the paste through to the other side or buy almond paste in a bakery (it’s much softer and easier to use).
+3. Break the almond paste into small pieces and place in the bowl of an electric mixer along with the sugar. Mix on low speed until the mixture is very fine.
+4. Add 1 egg white and continue beating until smooth; fold in flavoring.
+5. In a separate bowl, beat remaining egg whites until foamy; add salt and continue beating until stiff but not dry. (You know the whites are beaten thoroughly when you turn the bowl upside downand the whites adhere to the sides of the bowl and do not fall out).
+6. Fold the beaten egg whites into the almond paste mixture and then beat for about 3 minutes or until very light.
 7. Drop the batter by the half teaspoonful, leaving about 1 ½ inches between cookies.
 8. When all cookies are set to bake, place confectioners' sugar into a fine sieve or flour sifter and gently shake it over the cookies so each cookie is lightly covered.
 9. Let rest for 1 ½ hours.
 10. Bake cookies in the preheated oven for 20 minutes or until golden-brown.
 11. Remove from oven and allow to cool on the cookie sheets.
 12. Gently remove cookies from parchment; if cookies stick to parchment, turn the paper over, take a damp paper towel and gently wipe the bottom of the parchment paper to loosen the cookie.
-13. Store, tightly covered, in separated layers for up to two weeks, or freeze (To freeze, place cooled cookies on cookie sheet in a single layer in freezer until hard. Then remove to a zip-lock plastic bag, layer upon layer, without the cookies sticking to one another)
+13. Store, tightly covered, in separated layers for up to two weeks, or freeze (To freeze, place cooled cookies on cookie sheet in a single layer in freezer until hard. Then remove to a zip-lock plastic bag, layer upon layer, without the cookies sticking to one another).
