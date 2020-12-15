@@ -49,7 +49,7 @@ We make this on cold snowy nights in the heart of winter - a savory and rich sou
 
 Matt Futia
 
-![](_bookdown_files/latkes.jpg)
+![](_bookdown_files/latkes.jpg){width=40%}
 
 ### Pitch
 
@@ -85,7 +85,7 @@ These latkes (potato pancakes) are a favorite dish every Chanukah with my family
 
 Kristin Bishop
 
-![](_bookdown_files/pecan.jpg)
+![](_bookdown_files/pecan.jpg){width=40%}
 
 ### Pitch
 
