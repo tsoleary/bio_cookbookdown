@@ -1,8 +1,6 @@
 # Desserts {#desserts}
 
-![](_bookdown_files/color_cups.JPG)
-
-![](_bookdown_files/mousse.jpg)
+![](_bookdown_files/color_cups.JPG){width=45%} ![](_bookdown_files/mousse.jpg){width=45%}
 
 We've got some delecious treats for you here:
 
