@@ -1,10 +1,8 @@
 # Main Dishes {#maindish}
 
-![](_bookdown_files/bill_neal.jpg){width=30%} ![](_bookdown_files/pecan.jpg){width=45%}
+![](_bookdown_files/bill_neal.jpg){width=23%} ![](_bookdown_files/pecan.jpg){width=35%} ![](_bookdown_files/latkes.jpg){width=33%}
 
-![](_bookdown_files/latkes.jpg){width=40%}
-
-We've got some great food for you here:
+We've got some great recipes for you here:
 
 - **Sara Helms Cahan** tells you how to make a [Yummy Butternut Squash & Pumpkin Soup], a treat for cold snowy nights in the heart of winter.
 - **Matt Futia** shares his favorite dish to make every Chanukah to share with his family -- [Uncle Moe's Latkes].

@@ -1,8 +1,8 @@
 # Desserts {#desserts}
 
-![](_bookdown_files/color_cups.jpg){width=45%} ![](_bookdown_files/mousse.jpg){width=45%}
-![](_bookdown_files/armaretti.jpg){width=45%} ![](_bookdown_files/muddy_buddy.jpg){width=45%}
-![](_bookdown_files/crinkle_cookies.jpg){width=45%} 
+![](_bookdown_files/color_cups.jpg){width=30%} ![](_bookdown_files/mousse.jpg){width=30%} ![](_bookdown_files/crinkle_cookies.jpg){width=36%} 
+![](_bookdown_files/armaretti.jpg){width=48%} ![](_bookdown_files/muddy_buddy.jpg){width=48%}
+
 
 
 We've got some delecious treats for you here:
