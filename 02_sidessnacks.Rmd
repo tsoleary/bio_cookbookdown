@@ -131,7 +131,7 @@ They taste good to me!
 
 ### Materials
 
-#### Pork potstickers 
+### Pork potstickers 
 
 - Minced pork (33%)
 - Shiitake mushroom (33%)
@@ -145,7 +145,7 @@ They taste good to me!
 - Sesame seeds wine (0.3%)
 - Dumpling wrapper (mainly wheat, flour, cornstarch) (20%)
 
-#### Vegetarian dumplings 
+### Vegetarian dumplings 
 
 - Ka-Me Vermicelli (30%)
 - Shiitake mushroom (30%)
@@ -159,7 +159,7 @@ They taste good to me!
 - Sesame seeds (0.5%)
 - Dumpling wrapper (mainly wheat, flour, cornstarch) (20%)
 
-#### Dipping sauce
+### Dipping sauce
 
 - Low sodium soy sauce (49%)
 - Rice vinegar(49%)
