@@ -19,8 +19,6 @@ satay
 pitch-3
 materials-3
 methods-3
-satay-grill
-dipping-sauce
 sides-snacks
 chipotle-rosemary-roasted-nuts
 pitch-4
@@ -37,9 +35,6 @@ methods-6
 potstickers-dumplings
 pitch-7
 materials-7
-pork-potstickers
-vegetarian-dumplings
-dipping-sauce-1
 desserts
 muddy-buddies
 pitch-8
