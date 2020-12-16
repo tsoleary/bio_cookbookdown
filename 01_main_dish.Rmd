@@ -1,12 +1,13 @@
 # Main Dishes {#maindish}
 
-![](_bookdown_files/bill_neal.jpg){width=23%} ![](_bookdown_files/pecan.jpg){width=35%} ![](_bookdown_files/latkes.jpg){width=33%}
+![](_bookdown_files/bill_neal.jpg){width=23%} ![](_bookdown_files/pecan.jpg){width=35%} ![](_bookdown_files/latkes.jpg){width=33%} ![](_bookdown_files/satay.jpg){width=40%}
 
 We've got some great recipes for you here:
 
 - **Sara Helms Cahan** tells you how to make a [Yummy Butternut Squash & Pumpkin Soup], a treat for cold snowy nights in the heart of winter.
 - **Matt Futia** shares his favorite dish to make every Chanukah to share with his family -- [Uncle Moe's Latkes].
 - **Kristen Bishop** makes a mean [Mashed Sweet Potatoes with Pecan Streusel] and she shares the 20 year-old coveted recipe with you!
+- **Por Tangwancharoen** tells you how to make his [Satay] -- back from popular demand from last year's potluck-- it is some yummy street food from Thailand.
 
 ## Yummy Butternut Squash & Pumpkin Soup
 
@@ -125,3 +126,50 @@ makes about 12 servings
 16. Before continuing, preheat oven to 400ºF.  
 17. Sprinkle streusel over potatoes.  
 18. Bake until top is golden brown and potatoes are hot, about 25 minutes.
+
+
+## Satay
+
+Sumaetee (Por) Tangwancharoen
+
+![](_bookdown_files/satay.jpg){width=40%}
+
+### Pitch
+
+I made it for the department potluck last Christmas and people loved it. Some had asked me for a recipe especially for the sauce. This is a common street food in Thailand and across Southeast Asia. 
+
+You can have the sauce with any other grilled meat and vegetables or even buttered toast.
+
+### Materials
+
+- chicken, pork, beef, tempeh, or firm tofu
+- can of coconut milk
+- 2 tbsps of Madras curry powder
+- salt
+- peanuts or peanut butter
+- Panang curry paste
+- Massaman curry paste
+- fish sauce (or soy sauce)
+- tamarind paste (optional)
+
+- Note on ingredients: You can buy all of them from most Asian supermarkets
+
+### Methods
+
+#### Satay grill
+
+1. Cut you choice of protein (chicken, pork, beef, tempeh, firm tofu) into chicken finger size
+2.  Make the marinate -- half a can of coconut milk, 2 table spoons of Madras curry powder, salt to taste. This is good for about a pound of meat.
+3. Marinate protein for at least 15 minutes.
+4. It's best to cook it over a grill but oven bake is also fine. I bake at 350ºF for 30 minutes, flip the meat at 15 minutes.
+
+
+#### Dipping sauce
+
+1. Toast half a cup of peanuts in a pan until brown. Crush them into rough chunky paste. You can use peanut butter as a substitute
+2, Fry 1 table spoon of Panang curry paste and 1 table spoon of Massaman curry paste in coconut cream over medium high heat until fragrant. If you buy coconut milk in a can, when you open the can, you can scoop the cream from the top. If you use coconut milk from a box, add a little bit of vegetable oil when you fry curry paste.
+3. Add the rest of coconut milk and half a cup of water, bring it to simmer.
+4. Add peanut paste. If you use peanut butter, just add only around 2 table spoons. Smooth peanut butter will thicken the sauce more than chunky paste. 
+5. Season to taste with fish sauce (or soy sauce), sugar and tamarind paste (optional). The sauce should be salty with a touch of sweet (and sour)
+
+
