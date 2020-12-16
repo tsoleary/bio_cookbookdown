@@ -1,7 +1,7 @@
 # Sides & Snacks
 
 ![](_bookdown_files/nuts.png){width=45%} ![](_bookdown_files/lemon_bread.jpg){width=45%}
-![](_bookdown_files/twice_potatoes.png){width=45%} ![](_bookdown_files/dumplings.jpeg){width=45%}
+![](_bookdown_files/twice_potatoes.png){width=25%} ![](_bookdown_files/dumplings.jpeg){width=50%}
 
 - **Laura Caputo Newman** shares her recipe for [Chipotle Rosemary Roasted Nuts] -- a favorite holiday thank you gift for her kids' teachers.
 - **Caroline Dumas** makes her gradmother's [Lemon Bread] -- great for breakfast or dessert.

@@ -1,6 +1,7 @@
 # Main Dishes {#maindish}
 
-![](_bookdown_files/bill_neal.jpg){width=23%} ![](_bookdown_files/pecan.jpg){width=35%} ![](_bookdown_files/latkes.jpg){width=33%} ![](_bookdown_files/satay.jpg){width=40%}
+![](_bookdown_files/pecan.jpg){width=45%} ![](_bookdown_files/latkes.jpg){width=43%} 
+![](_bookdown_files/bill_neal.jpg){width=40%} ![](_bookdown_files/satay.jpg){width=40%}
 
 We've got some great recipes for you here:
 
