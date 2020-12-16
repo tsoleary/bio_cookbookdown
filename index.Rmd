@@ -5,6 +5,7 @@ date: "`r format(Sys.Date(), '%B %d, %Y')`"
 site: bookdown::bookdown_site
 output:
   bookdown::gitbook:
+    number_sections: true
     split_by: section
 output_dir: "docs"
 documentclass: book
@@ -39,6 +40,26 @@ Please reach out to us! Send all correspondance to the Party Planning (__uvmbiop
 - Send us reviews of recipes you've tried.
 - Send us any other comments, suggestions, or corrections 
 
+## Our Mission
+
+This cookbook is a compilation of The University of Vermont Biology Department's favorite holiday recipes.
+
+One of the best parts of the holiday season is often sitting around a table, enjoying food together, and sharing the personal stories that are behind each recipe. This year we can’t come together in person, but we can still share those stories, and hopefully spread some holiday cheer in the form of _good food_! 
+
+We hope this cookbook is an opportunity for us to get to know each other a little better. It is a place where we can share the meaningful stories behind our favorite recipes, and try delicious new recipes.
+
+You may submit new recipes on [this google form](https://docs.google.com/forms/d/e/1FAIpQLSdHOm3Liu3LtlvbZvr9YFWXiYRM_SHFl1M4b22EPs0DGhbhYw/viewform?usp=sf_link).
+
+
+## Contact us
+
+Please reach out to us! Send all correspondance to the Party Planning (__uvmbiopartyplanning\@gmail.com__)!
+
+- Send us more about your favorite recipe and add to your story
+- Send us pictures of meals you've prepared.
+- Send us reviews of recipes you've tried.
+- Send us any other comments, suggestions, or corrections 
+
 
 ```{r, eval = FALSE, include = FALSE}
 # How to build the book when changes are made
@@ -63,23 +84,3 @@ render_book(input = ".", output_format = NULL,
 ### Methods
 
 ```
-
-## Our Mission
-
-This cookbook is a compilation of The University of Vermont Biology Department's favorite holiday recipes.
-
-One of the best parts of the holiday season is often sitting around a table, enjoying food together, and sharing the personal stories that are behind each recipe. This year we can’t come together in person, but we can still share those stories, and hopefully spread some holiday cheer in the form of _good food_! 
-
-We hope this cookbook is an opportunity for us to get to know each other a little better. It is a place where we can share the meaningful stories behind our favorite recipes, and try delicious new recipes.
-
-You may submit new recipes on [this google form](https://docs.google.com/forms/d/e/1FAIpQLSdHOm3Liu3LtlvbZvr9YFWXiYRM_SHFl1M4b22EPs0DGhbhYw/viewform?usp=sf_link).
-
-
-## Contact us
-
-Please reach out to us! Send all correspondance to the Party Planning (__uvmbiopartyplanning\@gmail.com__)!
-
-- Send us more about your favorite recipe and add to your story
-- Send us pictures of meals you've prepared.
-- Send us reviews of recipes you've tried.
-- Send us any other comments, suggestions, or corrections 
