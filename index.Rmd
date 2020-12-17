@@ -13,6 +13,8 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: tsoleary/bio_cookbookdown
+favicon: "_bookdown_files/cookbook_icon.png"
+cover-image: "_bookdown_files/vcat_logo.png"
 description: "This cookbook is a compilation of The University of Vermont Biology Department's favorite holiday recipes - a way to virutally spread tasty holiday cheer!"
 ---
 
