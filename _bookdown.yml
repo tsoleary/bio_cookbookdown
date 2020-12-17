@@ -1,4 +1,5 @@
 book_filename: "bookdown-demo"
+cover-image: "_bookdown_files/uvmwinter.jpg"
 language:
   ui:
     chapter_name: ""
