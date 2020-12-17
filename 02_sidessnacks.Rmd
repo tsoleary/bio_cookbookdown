@@ -1,14 +1,16 @@
 # Sides & Snacks
 
-![](_bookdown_files/nuts.png){width=45%} ![](_bookdown_files/lemon_bread.jpg){width=45%}
-![](_bookdown_files/twice_potatoes.png){width=25%} ![](_bookdown_files/dumplings.jpeg){width=50%}
-![](_bookdown_files/salsa.jpeg){width=35%}
+![](_bookdown_files/nuts.png){width=36%} ![](_bookdown_files/lemon_bread.jpg){width=33%} ![](_bookdown_files/pecan_bites.jpg){width=22%}
+![](_bookdown_files/twice_potatoes.png){width=18%} ![](_bookdown_files/wai_pot.jpg){width=36%}  ![](_bookdown_files/salsa.jpeg){width=36%}
+
+Check out these great sides & snacks:
 
 - **Laura Caputo Newman** shares her recipe for [Chipotle Rosemary Roasted Nuts] -- a favorite holiday thank you gift for her kids' teachers.
 - **Caroline Dumas** makes her gradmother's [Lemon Bread] -- great for breakfast or dessert.
-- **Emily Mikucki** shares a staple from her grandmothers' house, [Twice-Baked Potatoes], one of her  all-time top 5 favorite dishes. 
+- **April Berteau** has a bit sized snack to get you through the 3 p.m. slump -- [Pecan Pie Energy Bites] -- paleo-approved, gluten-free, grain-free, and vegan.
 - **Ying-Wai Lam** pitch for why you should try his [Potstickers & Dumplings] is simple enough: "They taste good to me." So try 'em out yourself!
 - **Alicia Ebert** shares a [Tomatillo Salsa] recipe from her best friend in Arizona.
+- **Emily Mikucki** shares a staple from her grandmothers' house, [Twice-Baked Potatoes], one of her  all-time top 5 favorite dishes. 
 
 
 ## Chipotle Rosemary Roasted Nuts
@@ -49,34 +51,6 @@ This is my go-to recipe for gifts for my kids' teachers, and the teachers look f
 10. Taste for  seasoning. 
 11. Serve warm or cool completely and store in airtight containers at room temperature.
 
-
-## Tomatillo Salsa
-
-Alicia Ebert
-
-![](_bookdown_files/salsa.jpeg){width=35%}
-
-### Pitch
-
-My good friend from Arizona made the best salsa and I finally got the recipe (shhhh).
-
-### Materials
-
-- ½ lb tomatillos
-- 1 clove garlic
-- ½ tsp salt
-- 1 tsp fresh lime juice
-- 1 Tbsp cilantro
-- ½ cup white or sweet onion
-- 1 medium jalapeno
-- 2 small banana peppers
-
-### Methods
-
-1. Blend all ingredients in a blender. 
-2. You can roast the tomatillos until softened as well.
-
-
 ## Lemon Bread
 
 Caroline Dumas
@@ -112,48 +86,42 @@ This is my favorite thing that my grandmother makes for every family gathering!
 8. In a bowl combine 2/3 cup sugar and lemon juice. Mix until sugar dissolves. 
 9. Spoon liquid over the top of the load and allow it to set for 10 min before removing bread from the pan. 
 
+## Pecan Pie Energy Bites
 
-## Twice-Baked Potatoes
+April Berteau
 
-Emily Mikucki
-
-![](_bookdown_files/twice_potatoes.png){width=45%}
+![](_bookdown_files/pecan_bites.jpg){width=45%}
 
 ### Pitch
 
-Can’t decide between baked potatoes and mashed potatoes? Why not have both?! This recipe is in my top 5 favorite foods EVER and was a staple at my grandma’s house growing up – holiday or not!
+These pecan bites are a perfect no-bake snack that’s easy and delicious!
+
+With no added sugar, this is a perfect clean eating recipe you can enjoy in a lunch box or when the 3 p.m. slump comes along, guilt-free. Paleo-approved, gluten-free, grain-free, and vegan; what a bite!
 
 ### Materials
 
-- 4 medium-large russet potatoes (try to get equal sizes so they have equal cook times!)
-- 2 - 3 Tbs butter (plus a little bit extra)
-- ¼ – ½ cup milk or ½ and ½ 
-- 8oz shredded cheddar cheese (my go-to is Cabot seriously sharp)
-- salt 
-- black pepper
+- Raisins or dates 
+- Unsweetened coconut flakes 
+- Cinnamon
+- Ground ginger
+- Pecans 
+- Vanilla extract 
+- Nutmeg
+- Salt
 
-- Hand mixer or stand mixer 
-- Oven-safe dish
+- A food processor or high-speed blender
 
 ### Methods
 
-1. Preheat oven to 400°F
-2. Wash potatoes. Poke each potato with a fork a few times in different directions. Rub each potato with a little bit of the extra butter (this will make potato skins crispy!)
-3. Cook potatoes directly on oven rack at 400°F for approximately 50-60min depending on size. *I learned from a podcast that the perfectly cooked potato has an internal temperature of 210°F, so if you have a cooking/meat thermometer, you can use that! 
-4. *Important to do this next step while potatoes are still warm. So, I suggest using oven mitts to handle the hot potatoes*. Once potatoes are fully cooked, slice a long oval off the top of each potato so it looks like a little lid. Use a spoon to remove all the fluffy potato goodness, being careful not to rip the potato skins. Transfer potatoes insides to a mixing bowl or stand mixer. KEEP the potato skins and lids. 
-5. Add butter, milk or ½ and ½, and cheese to the potatoes and mix until a mashed potato-like consistency. (These are just estimate amounts so add or subtract to your liking!)
-6. Add salt and pepper to taste. 
-7. Transfer potato mixture back to the skins giving generous amounts to each potato. Totally ok if overflowing a bit (actually might even be better…) and top back with the lid.
-8. Put filled potatoes in an oven-safe dish and cook a second time for 20-25 minutes (or until the potato mixture starts to brown around the edges). 
-9. Serve warm and enjoy! My grandpa always said the skins have the most nutrients, so we would always eat the whole thing! Who doesn’t love a crispy potato skin with a little bit of butter.
-
-
+1. **Soak:** place raisins in a bowl and cover with hot water. Let them soak for 10 minutes; drain.
+2. **Blend:** pulse the raisins and nuts in a food processor until they are finely ground and have formed a paste. Stir in the coconut flakes, vanilla, cinnamon, nutmeg, ginger, and salt. Pulse a few times and refrigerate for 30 minutes.
+3. **Form:** using a spoon and your hands, scoop and shape the dough into 16 small balls. Refrigerate in an airtight container to store and enjoy.
 
 ## Potstickers & Dumplings
 
 Wai
 
-![](_bookdown_files/dumplings.jpeg){width=45%}
+![](_bookdown_files/wai_pot.jpg){width=45%}
 
 ### Pitch
 
@@ -197,5 +165,64 @@ They taste good to me!
 
 Feel free to ask me for more details (MLS 337)!
 
+## Tomatillo Salsa
 
+Alicia Ebert
+
+![](_bookdown_files/salsa.jpeg){width=35%}
+
+### Pitch
+
+My good friend from Arizona made the best salsa and I finally got the recipe (shhhh).
+
+### Materials
+
+- ½ lb tomatillos
+- 1 clove garlic
+- ½ tsp salt
+- 1 tsp fresh lime juice
+- 1 Tbsp cilantro
+- ½ cup white or sweet onion
+- 1 medium jalapeno
+- 2 small banana peppers
+
+### Methods
+
+1. Blend all ingredients in a blender. 
+2. You can roast the tomatillos until softened as well.
+
+
+## Twice-Baked Potatoes
+
+Emily Mikucki
+
+![](_bookdown_files/twice_potatoes.png){width=45%}
+
+### Pitch
+
+Can’t decide between baked potatoes and mashed potatoes? Why not have both?! This recipe is in my top 5 favorite foods EVER and was a staple at my grandma’s house growing up – holiday or not!
+
+### Materials
+
+- 4 medium-large russet potatoes (try to get equal sizes so they have equal cook times!)
+- 2 - 3 Tbs butter (plus a little bit extra)
+- ¼ – ½ cup milk or ½ and ½ 
+- 8oz shredded cheddar cheese (my go-to is Cabot seriously sharp)
+- salt 
+- black pepper
+
+- Hand mixer or stand mixer 
+- Oven-safe dish
+
+### Methods
+
+1. Preheat oven to 400°F
+2. Wash potatoes. Poke each potato with a fork a few times in different directions. Rub each potato with a little bit of the extra butter (this will make potato skins crispy!)
+3. Cook potatoes directly on oven rack at 400°F for approximately 50-60min depending on size. *I learned from a podcast that the perfectly cooked potato has an internal temperature of 210°F, so if you have a cooking/meat thermometer, you can use that! 
+4. *Important to do this next step while potatoes are still warm. So, I suggest using oven mitts to handle the hot potatoes*. Once potatoes are fully cooked, slice a long oval off the top of each potato so it looks like a little lid. Use a spoon to remove all the fluffy potato goodness, being careful not to rip the potato skins. Transfer potatoes insides to a mixing bowl or stand mixer. KEEP the potato skins and lids. 
+5. Add butter, milk or ½ and ½, and cheese to the potatoes and mix until a mashed potato-like consistency. (These are just estimate amounts so add or subtract to your liking!)
+6. Add salt and pepper to taste. 
+7. Transfer potato mixture back to the skins giving generous amounts to each potato. Totally ok if overflowing a bit (actually might even be better…) and top back with the lid.
+8. Put filled potatoes in an oven-safe dish and cook a second time for 20-25 minutes (or until the potato mixture starts to brown around the edges). 
+9. Serve warm and enjoy! My grandpa always said the skins have the most nutrients, so we would always eat the whole thing! Who doesn’t love a crispy potato skin with a little bit of butter.
 

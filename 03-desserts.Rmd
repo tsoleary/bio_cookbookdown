@@ -1,24 +1,24 @@
 # Desserts {#desserts}
 
-![](_bookdown_files/color_cups.JPG){width=30%} ![](_bookdown_files/mousse.jpg){width=30%} ![](_bookdown_files/crinkle_cookies.jpg){width=36%} 
-![](_bookdown_files/armaretti.jpg){width=28%} ![](_bookdown_files/muddy_buddy.jpg){width=28%} ![](_bookdown_files/caramels.jpg){width=37%}
-
+![](_bookdown_files/armaretti.jpg){width=25%} ![](_bookdown_files/color_cups.JPG){width=37%} ![](_bookdown_files/caramels.jpg){width=33%}
+![](_bookdown_files/crinkle_cookies.jpg){width=43%} ![](_bookdown_files/muddy_buddies.jpg){width=17%} ![](_bookdown_files/mousse.jpg){width=36%} 
 
 We've got some delecious treats for you here:
 
-- **Hannah Boyd** tells you how she makes [Muddy Buddies] -- a special treat full of crunchy, chocolatey, peanut buttery goodness.
-- **Rachel Plouffe** shares a Brazilian recipe for [Brigadeiros -- Brazilian Truffles], a classic dessert at kid's birthdays and a treat she has been making with her daughter to share with the neighbors in these isolating times.
-- **Leigh Sweet** has a pretty _sweet_ -- get it? -- recipe for a [Ginger Crinkle Cookie] that you don't want to miss.
-- **Thomas O'Leary** shares a recipe for the _guilt-free_ treat of [Chocolate Mousse], that is way easier than pie to make!
 - **Lauren Ash** celebrates the Feast of the Seven Fishes with [Nanny's Amaretti Cookies], which are Italian, gluten free, sweet and delicate almond cookies made by her grandmother.
+- **Rachel Plouffe** shares a Brazilian recipe for [Brigadeiros -- Brazilian Truffles], a classic dessert at kid's birthdays and a treat she has been making with her daughter to share with the neighbors in these isolating times.
 - **Jacqueline Guillemin** shares her best friends _top secret_ recipe for caramels in [Erika's Caramels].
+- **Leigh Sweet** has a pretty _sweet_ -- get it? -- recipe for a [Ginger Crinkle Cookie] that you don't want to miss.
+- **Hannah Boyd** tells you how she makes [Muddy Buddies] -- a special treat full of crunchy, chocolatey, peanut buttery goodness.
+- **Thomas O'Leary** shares a recipe for the _guilt-free_ treat of [Chocolate Mousse], that is way easier than pie to make!
+
 
 
 ## Muddy Buddies
 
 Hannah Boyd
 
-![](_bookdown_files/muddy_buddy.jpg){width=45%}
+![](_bookdown_files/muddy_buddies.jpg){width=45%}
 
 ### Pitch
 
@@ -116,7 +116,7 @@ Guilt-free dessert -- it's mostly air!
 
 ### Story
 
-On my twelfth birthday, when I had learned all there is to learn, a delecious cake aflame infront of me, I said my mom -- respectfully, I hope -- "What's _the big deal_ with cake? It's clearly not the best dessert. Brownies are better. Ice cream is better. Chocolate Mousse is better. People eat cake on birthdays because that is _what you do_, not because it is the best dessert. What's up with that?"
+On my twelfth birthday, when I had learned all there is to learn, a delecious cake aflame in front of me, I said my mom -- respectfully, I hope -- "What's _the big deal_ with cake? It's clearly not the best dessert. Brownies are better. Ice cream is better. Chocolate Mousse is better. People eat cake on birthdays because that is _what you do_, not because it is the best dessert. What's up with that?"
 
 My mom has never let me forget that I said that -- but she has been sure to make chocolate mousse for me every major holiday since. 
 
@@ -141,7 +141,7 @@ My mom has never let me forget that I said that -- but she has been sure to make
 
 Lauren Ash
 
-![](_bookdown_files/armaretti.jpg){width=45%}
+![](_bookdown_files/lvash.JPG){width=45%}
 
 ### Pitch
 
