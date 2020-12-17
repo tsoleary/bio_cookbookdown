@@ -2,11 +2,14 @@
 
 ![](_bookdown_files/nuts.png){width=45%} ![](_bookdown_files/lemon_bread.jpg){width=45%}
 ![](_bookdown_files/twice_potatoes.png){width=25%} ![](_bookdown_files/dumplings.jpeg){width=50%}
+![](_bookdown_files/salsa.jpeg){width=35%}
 
 - **Laura Caputo Newman** shares her recipe for [Chipotle Rosemary Roasted Nuts] -- a favorite holiday thank you gift for her kids' teachers.
 - **Caroline Dumas** makes her gradmother's [Lemon Bread] -- great for breakfast or dessert.
 - **Emily Mikucki** shares a staple from her grandmothers' house, [Twice-Baked Potatoes], one of her  all-time top 5 favorite dishes. 
 - **Ying-Wai Lam** pitch for why you should try his [Potstickers & Dumplings] is simple enough: "They taste good to me." So try 'em out yourself!
+- **Alicia Ebert** shares a [Tomatillo Salsa] recipe from her best friend in Arizona.
+
 
 ## Chipotle Rosemary Roasted Nuts
 
@@ -45,6 +48,33 @@ This is my go-to recipe for gifts for my kids' teachers, and the teachers look f
 9. Toss well and set aside at room temperature, stirring  occasionally to prevent sticking as they cool. 
 10. Taste for  seasoning. 
 11. Serve warm or cool completely and store in airtight containers at room temperature.
+
+
+## Tomatillo Salsa
+
+Alicia Ebert
+
+![](_bookdown_files/salsa.jpeg){width=35%}
+
+### Pitch
+
+My good friend from Arizona made the best salsa and I finally got the recipe (shhhh).
+
+### Materials
+
+- ½ lb tomatillos
+- 1 clove garlic
+- ½ tsp salt
+- 1 tsp fresh lime juice
+- 1 Tbsp cilantro
+- ½ cup white or sweet onion
+- 1 medium jalapeno
+- 2 small banana peppers
+
+### Methods
+
+1. Blend all ingredients in a blender. 
+2. You can roast the tomatillos until softened as well.
 
 
 ## Lemon Bread
