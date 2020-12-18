@@ -1,7 +1,7 @@
 # Desserts {#desserts}
 
 ![](_bookdown_files/armaretti.jpg){width=25%} ![](_bookdown_files/color_cups.JPG){width=37%} ![](_bookdown_files/caramels.jpg){width=33%}
-![](_bookdown_files/crinkle_cookies.jpg){width=43%} ![](_bookdown_files/muddy_buddies.jpg){width=17%} ![](_bookdown_files/mousse.jpg){width=36%} 
+![](_bookdown_files/crinkle_cookies.jpg){width=34%} ![](_bookdown_files/gingersnap.jpeg){width=19%} ![](_bookdown_files/muddy_buddies.jpg){width=13.5%} ![](_bookdown_files/mousse.jpg){width=28%} 
 
 We've got some delecious treats for you here:
 
@@ -9,133 +9,9 @@ We've got some delecious treats for you here:
 - **Rachel Plouffe** shares a Brazilian recipe for [Brigadeiros -- Brazilian Truffles], a classic dessert at kid's birthdays and a treat she has been making with her daughter to share with the neighbors in these isolating times.
 - **Jacqueline Guillemin** shares her best friends _top secret_ recipe for caramels in [Erika's Caramels].
 - **Leigh Sweet** has a pretty _sweet_ -- get it? -- recipe for a [Ginger Crinkle Cookie] that you don't want to miss.
+- **Maia Austin** shares her recipe for [Gingersnap Cookies] -- a annual family tradition to make.
 - **Hannah Boyd** tells you how she makes [Muddy Buddies] -- a special treat full of crunchy, chocolatey, peanut buttery goodness.
 - **Thomas O'Leary** shares a recipe for the _guilt-free_ treat of [Chocolate Mousse], that is way easier than pie to make!
-
-
-
-## Muddy Buddies
-
-Hannah Boyd
-
-![](_bookdown_files/muddy_buddies.jpg){width=45%}
-
-### Pitch
-
-If you love crunchy, chocolatey, peanut buttery goodness you will love this recipe! A great gift if you put it in glass jars and you can add some M&M's for color -- and flavor! 
-
-### Materials
-
-- 9 cups Rice Chex™, Corn Chex™ or Chocolate Chex™ cereal (or combination)
-- 1 cup semisweet chocolate chips
-- ½ cup peanut butter
-- ¼ cup butter or margarine
-- 1 teaspoon vanilla
-- 1 ½ cups powdered sugar
-
-### Methods
-
-1. Into large bowl, measure cereal; set aside.
-2. In 1-quart microwavable bowl, microwave chocolate chips, peanut butter and butter uncovered on High 1 minute; stir. Microwave about 30 seconds longer or until mixture can be stirred smooth. Stir in vanilla.
-3. Pour mixture over cereal, stirring until evenly coated. Pour into 2-gallon resealable food-storage plastic bag or toss in a large mixing bowl.
-4. Add powdered sugar. Seal bag; shake until well coated. Spread on waxed paper to cool. Store in airtight container.
-
-
-## Brigadeiros -- Brazilian Truffles
-
-Rachel Plouffe
-
-![](_bookdown_files/color_cups.JPG)
-
-### Pitch
-
-This is classic Brazilian recipe that you see in every kid's birthday party. This year with all the craziness that is happening, my daughter and I have been baking something every week and delivering to the neighbors as a way to stay connected and hoping it will bring a little sweetness to their lives. This recipe has been their favorite so far. It is easy to make and kids can help with the sprinkles. There is also tons of variations you can find online.
-
-### Materials
-
-makes about 20 servings
-
-- 1 tablespoon butter
-- 1 can sweetened condensed milk
-- ¼ cup cocoa powder
-- 1 ½ cups chocolate sprinkle, as needed
-
-### Methods
-
-1. In pot over low heat add sweetened condensed milk, butter and sifted cocoa powder (sifting helps prevent lumps of cocoa powder).
-2. Stir continuously (very important as mixture starts getting thicker) until you can tilt the pot and the mixture does not stick to it (or when you can see the bottom of the pot for about 3 seconds after dragging a spatula through).
-3. Pour mixture onto a greased plate and let it cool.
-4. Divide the mixture into 4 and using butter to grease your hands, shape the mixture into balls (each quarter of the mixture should make about 5 balls).
-5. Roll the balls in chocolate sprinkles.
-6. Enjoy!
-
-## Ginger Crinkle Cookie
-
-Leigh Sweet
-
-![](_bookdown_files/crinkle_cookies.jpg){width=45%}
-
-### Pitch
-
-This is one of my favorite Christmas cookies. 
-
-### Materials
-
-- 2 eggs
-- 4 cups sifted flour	                      
-- 2 tsp cinnamon                                 
-- 2 cup sugar	                   
-- 4 tsp baking soda	                      
-- 2 tsp ginger
-- 1 ⅓ cup vegtable oil	   
-- ½ tsp salt	
-- ½ cup molasses
-
-### Methods
-
-1.	Mix together eggs, oil, molasses and sugar.
-2.	Sift the dry ingredients together.
-3.	Add the dry sifted mix to the wet mix. Stir together until combined. 
-4.	Roll a teaspoon into a small ball and coat with sugar.
-5.	Place on ungreased cookie sheet about 3 inches apart.
-6.	Cookies will flatten and crinkle as they cook.
-7.	Bake for 10 – 12 mins at 350ºF.
-8.	Cool on a cookie rack.
-
-## Chocolate Mousse
-
-Thomas O'Leary
-
-![](_bookdown_files/mousse.jpg)
-
-### Pitch
-
-Do you like eating dessert -- but you are too nervous to bake things because you think you'll screw up the preparation, or the ingredients, or the baking time? Well, let me introduce you to my favorite dessert (and soon to be yours) chocolate mousse - _made straight from the box_! So light. So fluffy. So chocolatey. So delecious. 
-
-Guilt-free dessert -- it's mostly air!
-
-### Story
-
-On my twelfth birthday, when I had learned all there is to learn, a delecious cake aflame in front of me, I said my mom -- respectfully, I hope -- "What's _the big deal_ with cake? It's clearly not the best dessert. Brownies are better. Ice cream is better. Chocolate Mousse is better. People eat cake on birthdays because that is _what you do_, not because it is the best dessert. What's up with that?"
-
-My mom has never let me forget that I said that -- but she has been sure to make chocolate mousse for me every major holiday since. 
-
-### Materials
-
- - Box of [Chocolate Mousse Mix](https://www.amazon.com/OETKER-Mousse-Chocolate-Milk-Ounces/dp/B00F4J7ZCI/ref=asc_df_B00F4J7ZCI/?tag=hyprod-20&linkCode=df0&hvadid=459693950627&hvpos=&hvnetw=g&hvrand=11603616910127190051&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9003006&hvtargid=pla-997270846247&psc=1)
-    - Likely found in your local grocery store's pudding isle
- - Milk
- - Bowl
- - Electric mixer
-
-### Methods
-
-1. Add contents of the box and one cup of milk to a bowl.
-2. Beat with the electric mixer on low until thickened.
-3. Whip at the highest spead for 3 to 5 minutes.
-4. Spoon into serving dish.
-5. Chill in the refrigerator for at least an hour.
-6. Eat!
 
 ## Nanny's Amaretti Cookies
 
@@ -175,7 +51,33 @@ makes about 5 dozen cookies
 12. Gently remove cookies from parchment; if cookies stick to parchment, turn the paper over, take a damp paper towel and gently wipe the bottom of the parchment paper to loosen the cookie.
 13. Store, tightly covered, in separated layers for up to two weeks, or freeze (To freeze, place cooled cookies on cookie sheet in a single layer in freezer until hard. Then remove to a zip-lock plastic bag, layer upon layer, without the cookies sticking to one another).
 
+## Brigadeiros -- Brazilian Truffles
 
+Rachel Plouffe
+
+![](_bookdown_files/color_cups.JPG)
+
+### Pitch
+
+This is classic Brazilian recipe that you see in every kid's birthday party. This year with all the craziness that is happening, my daughter and I have been baking something every week and delivering to the neighbors as a way to stay connected and hoping it will bring a little sweetness to their lives. This recipe has been their favorite so far. It is easy to make and kids can help with the sprinkles. There is also tons of variations you can find online.
+
+### Materials
+
+makes about 20 servings
+
+- 1 tablespoon butter
+- 1 can sweetened condensed milk
+- ¼ cup cocoa powder
+- 1 ½ cups chocolate sprinkle, as needed
+
+### Methods
+
+1. In pot over low heat add sweetened condensed milk, butter and sifted cocoa powder (sifting helps prevent lumps of cocoa powder).
+2. Stir continuously (very important as mixture starts getting thicker) until you can tilt the pot and the mixture does not stick to it (or when you can see the bottom of the pot for about 3 seconds after dragging a spatula through).
+3. Pour mixture onto a greased plate and let it cool.
+4. Divide the mixture into 4 and using butter to grease your hands, shape the mixture into balls (each quarter of the mixture should make about 5 balls).
+5. Roll the balls in chocolate sprinkles.
+6. Enjoy!
 
 ## Erika's Caramels
 
@@ -194,8 +96,8 @@ This recipe is not only delicious but it makes me smile every time I have it!
 ### Materials
 
 - 1 cup butter
-- 2 1/4 cups brown sugar
-- 1 1/4 cups of sweetened condensed milk
+- 2 ¼ cups brown sugar
+- 1 ¼ cups of sweetened condensed milk
 - 1 cup light-color corn syrup
 - 1 teaspoon vanilla
 
@@ -211,6 +113,142 @@ This recipe is not only delicious but it makes me smile every time I have it!
 8. Stir in the vanilla and quickly poor the mixture into the prepared pan. 
 9. Let stand until hardened. 
 10. Using a butter knife you should be able to cut the caramels into your desired size and complete them by wrapping with waxed paper!
+
+## Ginger Crinkle Cookie
+
+Leigh Sweet
+
+![](_bookdown_files/crinkle_cookies.jpg){width=45%}
+
+### Pitch
+
+This is one of my favorite Christmas cookies. 
+
+### Materials
+
+- 2 eggs
+- 4 cups sifted flour	                      
+- 2 tsp cinnamon                                 
+- 2 cup sugar	                   
+- 4 tsp baking soda	                      
+- 2 tsp ginger
+- 1 ⅓ cup vegtable oil	   
+- ½ tsp salt	
+- ½ cup molasses
+
+### Methods
+
+1.	Mix together eggs, oil, molasses and sugar.
+2.	Sift the dry ingredients together.
+3.	Add the dry sifted mix to the wet mix. Stir together until combined. 
+4.	Roll a teaspoon into a small ball and coat with sugar.
+5.	Place on ungreased cookie sheet about 3 inches apart.
+6.	Cookies will flatten and crinkle as they cook.
+7.	Bake for 10 – 12 mins at 350ºF.
+8.	Cool on a cookie rack.
+
+## Gingersnap Cookies
+
+Maia Austin
+
+![](_bookdown_files/gingersnap.jpeg){width=45%}
+
+### Pitch
+
+Gingersnap cookies are the one type of cookie my family makes every year! This recipe is pretty forgiving, so you can use different varieties of flour or change up the spices depending on your preference. 
+
+### Materials
+
+- ¾ cup unsalted butter, room temperature
+- ½ cup firmly packed dark brown sugar
+- ½ cup white sugar
+- ¼ cup molasses
+- 1 large egg
+- ½ teaspoon vanilla extract
+- 2 cups (260 g) flour - I usually do 1 cup rye flour and 1 cup all-purpose
+- ½ teaspoon baking soda
+- ¼ teaspoon salt
+- 1 ½ teaspoon ground cinnamon
+- 2 teaspoons ground ginger
+- ½ teaspoon ground cloves
+- ¼ teaspoon black pepper
+- ½ cup white sugar for rolling
+
+### Methods
+
+1. In the bowl of your electric mixer (or with a hand mixer), beat the butter and sugars until light and fluffy. Add the molasses, egg, and vanilla extract and beat until incorporated. 
+2. In a separate bowl whisk together the flour, baking soda, salt, and spices. 
+3. Add to the butter mixture and mix until well combined. Cover and chill the batter for about 30 - 60 minutes or until firm. 
+4. Preheat the oven to 350ºF. Line two baking sheets with parchment paper. 
+5. Place about ½ cup white sugar in a medium sized bowl. When the batter has chilled sufficiently, roll into 1 inch balls. Roll each ball of dough into the sugar, coating it thoroughly. Place on the baking sheet, spacing about 2 inches apart. Then, with the bottom of a glass, flatten the cookies slightly. 
+6. For a cookie with crisp edges and a soft and chewy center, bake for about 12 minutes. (The longer the cookies bake, the more crisp they will be.) Cool on a wire rack. 
+
+## Muddy Buddies
+
+Hannah Boyd
+
+![](_bookdown_files/muddy_buddies.jpg){width=45%}
+
+### Pitch
+
+If you love crunchy, chocolatey, peanut buttery goodness you will love this recipe! A great gift if you put it in glass jars and you can add some M&M's for color -- and flavor! 
+
+### Materials
+
+- 9 cups Rice Chex™, Corn Chex™ or Chocolate Chex™ cereal (or combination)
+- 1 cup semisweet chocolate chips
+- ½ cup peanut butter
+- ¼ cup butter or margarine
+- 1 teaspoon vanilla
+- 1 ½ cups powdered sugar
+
+### Methods
+
+1. Into large bowl, measure cereal; set aside.
+2. In 1-quart microwavable bowl, microwave chocolate chips, peanut butter and butter uncovered on High 1 minute; stir. Microwave about 30 seconds longer or until mixture can be stirred smooth. Stir in vanilla.
+3. Pour mixture over cereal, stirring until evenly coated. Pour into 2-gallon resealable food-storage plastic bag or toss in a large mixing bowl.
+4. Add powdered sugar. Seal bag; shake until well coated. Spread on waxed paper to cool. Store in airtight container.
+
+## Chocolate Mousse
+
+Thomas O'Leary
+
+![](_bookdown_files/mousse.jpg)
+
+### Pitch
+
+Do you like eating dessert -- but you are too nervous to bake things because you think you'll screw up the preparation, or the ingredients, or the baking time? Well, let me introduce you to my favorite dessert (and soon to be yours) chocolate mousse - _made straight from the box_! So light. So fluffy. So chocolatey. So delecious. 
+
+Guilt-free dessert -- it's mostly air!
+
+### Story
+
+On my twelfth birthday, when I had learned all there is to learn, a delecious cake aflame in front of me, I said my mom -- respectfully, I hope -- "What's _the big deal_ with cake? It's clearly not the best dessert. Brownies are better. Ice cream is better. Chocolate Mousse is better. People eat cake on birthdays because that is _what you do_, not because it is the best dessert. What's up with that?"
+
+My mom has never let me forget that I said that -- but she has been sure to make chocolate mousse for me every major holiday since. 
+
+### Materials
+
+ - Box of [Chocolate Mousse Mix](https://www.amazon.com/OETKER-Mousse-Chocolate-Milk-Ounces/dp/B00F4J7ZCI/ref=asc_df_B00F4J7ZCI/?tag=hyprod-20&linkCode=df0&hvadid=459693950627&hvpos=&hvnetw=g&hvrand=11603616910127190051&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9003006&hvtargid=pla-997270846247&psc=1)
+    - Likely found in your local grocery store's pudding isle
+ - Milk
+ - Bowl
+ - Electric mixer
+
+### Methods
+
+1. Add contents of the box and one cup of milk to a bowl.
+2. Beat with the electric mixer on low until thickened.
+3. Whip at the highest spead for 3 to 5 minutes.
+4. Spoon into serving dish.
+5. Chill in the refrigerator for at least an hour.
+6. Eat!
+
+
+
+
+
+
 
 
 
