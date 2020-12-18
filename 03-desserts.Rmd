@@ -17,7 +17,7 @@ We've got some delecious treats for you here:
 
 Lauren Ash
 
-![](_bookdown_files/lvash.JPG){width=45%}
+![](_bookdown_files/lvash.JPG){width=25%} ![](_bookdown_files/armaretti.jpg){width=25%}
 
 ### Pitch
 
